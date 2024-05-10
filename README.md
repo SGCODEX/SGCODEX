@@ -12,6 +12,7 @@
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
 - 🤖 About Me: AI Freak
 
+<br>
 
 💻 **What I do**
 

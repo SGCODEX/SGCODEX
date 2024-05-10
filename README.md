@@ -11,15 +11,14 @@
 </br>
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
 - 🤖 About Me: AI Freak
-
+</br>
 💻 **What I do**
 - Python Development <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIycHduczM0Nmp6emp1cGw4eGF3MzlwYzh2M3RnbGc4aW91OHo0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="20">
 - Artificial Intelligence <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU1aGV4b3VpNXBwMHd1NTRrMTdvNXdhZWx4ZmRucTR5NjZvbHZidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width ="25">
 - Web Development <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhudDlub3FvbDhyN2hkN3IyOXg5Y200NG8ycml2NTUzb3lpYXN1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="25">
 - Graphics Designing <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNsb3FtOHJuOG56MjZoeHA2YjlkbjhoZTZsc3llOWdmNzlhcDZ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpjslIegp8lyHjfOoO/giphy.gif" width ="25">
-
+</br>
 🛠**Tech Stack**
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,21 +44,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</br>
 <div align="center">
     <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories!</h3>
 </div>

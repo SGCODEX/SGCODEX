@@ -3,7 +3,7 @@
 ### Hi there, I am Shivam Gupta 👋
 
 # 💫 About Me:
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="300" height="300">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="280" height="280">
 - 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world Artificial Intelligence, Gen AI and Computer vision. I am also an athlete and fitness freak with a leadership mindset. Always eager to learn and improve.
   
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
@@ -39,8 +39,8 @@
 [![SGCODEX's GitHub | Dependencies](https://stats.quine.sh/SGCODEX/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=SGCODEX)
 
 ![](https://github-readme-stats.vercel.app/api?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX&theme=shadow_green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX&theme=shadow_green&hide_border=false)
 
 <br>
 

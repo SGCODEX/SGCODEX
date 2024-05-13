@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
-<p> <h3>Hi there, I am Shivam Gupta 👋 </h3> </p>
+<p><h2>Hi there, I am Shivam Gupta 👋 </h2></p>
+
 <br>
-# 🌐 Connect:
+
+# 🌐 Let's Connect:
 [![Linkedin Badge](https://img.shields.io/badge/-Shivam_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-gupta-055921248/)](https://www.linkedin.com/in/shivam-gupta-055921248/)
 [![Gmail Badge](https://img.shields.io/badge/-shivampilot2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivampilot2004@gmail.com)](mailto:shivampilot2004@gmail.com)
 

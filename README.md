@@ -1,7 +1,7 @@
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="200" height="200">
 
-### Hi there, I am Shivam Gupta 👋
+# Hi there, I am Shivam Gupta 👋
 
 Connect with me:
 

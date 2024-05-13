@@ -5,8 +5,6 @@
 
 ### Hi there, I am Shivam Gupta 👋
 
-<br>
-
 # 💫 About Me:
 - 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world Artificial Intelligence, Gen AI and Computer vision. I am also an athlete and fitness freak with a leadership mindset. Always eager to learn and improve.
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)

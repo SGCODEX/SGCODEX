@@ -1,7 +1,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="200" height="200">
 
-# Hi there, I am Shivam Gupta 👋
+## Hi there, I am Shivam Gupta 👋
 
 Connect with me:
 
@@ -12,13 +12,13 @@ Connect with me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
 # 💫 About Me:
+- 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world Artificial Intelligence, Gen AI and Computer vision. I am also an athlete and fitness freak with a leadership mindset. Always eager to learn and improve.
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
-- 🤖 About Me: AI Freak
+
 
 <br>
 
-💻 **What I do**
-
+# 💻 What I do:
 - Python Development   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIycHduczM0Nmp6emp1cGw4eGF3MzlwYzh2M3RnbGc4aW91OHo0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="20">
 - Artificial Intelligence   <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU1aGV4b3VpNXBwMHd1NTRrMTdvNXdhZWx4ZmRucTR5NjZvbHZidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width ="25">
 - Web Development   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhudDlub3FvbDhyN2hkN3IyOXg5Y200NG8ycml2NTUzb3lpYXN1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="25">
@@ -26,7 +26,7 @@ Connect with me:
 
 <br>
 
-🛠**Tech Stack**
+# 🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

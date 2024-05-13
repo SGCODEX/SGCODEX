@@ -4,21 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
 ### Hi there, I am Shivam Gupta 👋 
-
 <br>
-
 # 🌐 Connect:
 [![Linkedin Badge](https://img.shields.io/badge/-Shivam_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-gupta-055921248/)](https://www.linkedin.com/in/shivam-gupta-055921248/)
 [![Gmail Badge](https://img.shields.io/badge/-shivampilot2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivampilot2004@gmail.com)](mailto:shivampilot2004@gmail.com)
-
 <br>
-
 # 💫 About Me:
 - 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world Artificial Intelligence, Gen AI and Computer vision. I am also an athlete and fitness freak with a leadership mindset. Always eager to learn and improve.
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
-  
 <br>
-
 # 💻 What I do:
 - Python Development   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIycHduczM0Nmp6emp1cGw4eGF3MzlwYzh2M3RnbGc4aW91OHo0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="20">
 - Artificial Intelligence   <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU1aGV4b3VpNXBwMHd1NTRrMTdvNXdhZWx4ZmRucTR5NjZvbHZidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif" width ="25">

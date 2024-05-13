@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
-<p><h2>Hi there, I am Shivam Gupta 👋 </h2></p>
+### Hi there, I am Shivam Gupta 👋
 
 <br>
 
@@ -53,6 +53,19 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+
+<br>
+
+# 📊 GitHub Stats:
+
+[![SGCODEX's GitHub | Stats](https://stats.quine.sh/SGCODEX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SGCODEX)
+[![SGCODEX's GitHub | Dependencies](https://stats.quine.sh/SGCODEX/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SGCODEX)
+
+![](https://github-readme-stats.vercel.app/api?username=SGCODEX&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
 
 <div align="center">
     <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories!</h3>

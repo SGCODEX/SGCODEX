@@ -9,6 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
+# 💫 About Me:
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
 - 🤖 About Me: AI Freak
 

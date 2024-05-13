@@ -9,6 +9,8 @@
   
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
 - [![Portfolio Badge](https://img.shields.io/badge/Portfolio-#000000?style=for-the-badge&logo=simkl&logoColor=white)](https://portfolio-on-react-ten.vercel.app/)
+- 
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam_Gupta-blue?style=flat-square&logo=simkl&logoColor=white&link=https://www.linkedin.com/in/shivam-gupta-055921248/)](https://www.linkedin.com/in/shivam-gupta-055921248/)
 
 - 🌐 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/-Shivam_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-gupta-055921248/)](https://www.linkedin.com/in/shivam-gupta-055921248/) [![Gmail Badge](https://img.shields.io/badge/-shivampilot2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivampilot2004@gmail.com)](mailto:shivampilot2004@gmail.com)
 

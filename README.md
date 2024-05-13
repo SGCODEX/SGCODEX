@@ -1,21 +1,20 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="200" height="200">
 
-<h1> Hi there, I am Shivam Gupta 👋 </h1>
+<h2> Hi there, I am Shivam Gupta 👋 </h2>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
-Connect with me:
-
+# 🌐 Connect:
 [![Linkedin Badge](https://img.shields.io/badge/-Shivam_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-gupta-055921248/)](https://www.linkedin.com/in/shivam-gupta-055921248/)
 [![Gmail Badge](https://img.shields.io/badge/-shivampilot2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivampilot2004@gmail.com)](mailto:shivampilot2004@gmail.com)
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
+<br>
 
 # 💫 About Me:
 - 🤖 About Me: I am a technology enthusiast who is very passionate about coding and researching. Currently diving into the world Artificial Intelligence, Gen AI and Computer vision. I am also an athlete and fitness freak with a leadership mindset. Always eager to learn and improve.
 - 🎯 Portfolio website (not complete): [Portfolio](https://portfolio-on-react-ten.vercel.app/)
-
-
+  
 <br>
 
 # 💻 What I do:

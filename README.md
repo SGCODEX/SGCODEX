@@ -39,7 +39,7 @@
 [![SGCODEX's GitHub | Stats](https://stats.quine.sh/SGCODEX/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=SGCODEX)
 [![SGCODEX's GitHub | Dependencies](https://stats.quine.sh/SGCODEX/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=SGCODEX)
 
-![](https://github-readme-stats.vercel.app/api?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=SGCODEX\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&rank_icon=github)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX)
 

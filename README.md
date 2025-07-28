@@ -40,7 +40,7 @@
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX)  
   
-![](https://leetcard.jacoblin.cool/sgcodex?theme=wtf&font=Montserrat)
+![](https://leetcard.jacoblin.cool/sgcodex?theme=wtf&font=Montserrat&ext=heatmap)
 
 <br>
 

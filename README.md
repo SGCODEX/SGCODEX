@@ -47,7 +47,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX)  
 -->
   <a href="https://leetcode.com/pslv2731/">
-    <img src="https://leetcard.jacoblin.cool/sgcodex?theme=wtf&font=Montserrat&ext=heatmap" alt="LeetCode Stats" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/sgcodex?theme=wtf&font=Montserrat" alt="LeetCode Stats" width="500"/>
   </a>
 </p>
 

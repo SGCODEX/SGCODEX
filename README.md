@@ -11,6 +11,8 @@
 
 - 🌐 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/-Shivam_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-gupta-055921248/)](https://www.linkedin.com/in/shivam-gupta-055921248/) [![Gmail Badge](https://img.shields.io/badge/-shivampilot2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivampilot2004@gmail.com)](mailto:shivampilot2004@gmail.com)
 
+- 💻 Coding: [![Leetcode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=simkl&logoColor=white&link=https://leetcode.com/u/SGCODEX/
+)]([https://www.linkedin.com/in/shivam-gupta-055921248/](https://leetcode.com/u/SGCODEX/))
 <br>
 
 # 💻 What I do:
@@ -36,11 +38,18 @@
 
 # 📊 Stats:
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/1e73403075b3c611541594d9245be3de4a0ebabd7674c2db5bcb576927e62ed1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5347434f4445582662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d6666662672616e6b5f69636f6e3d676974687562" alt="Github Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX" alt="Github Stats" height="200"/>
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=SGCODEX\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&rank_icon=github)  
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX)  
-  
-![](https://leetcard.jacoblin.cool/sgcodex?theme=wtf&font=Montserrat&ext=heatmap)
+-->
+  <a href="https://leetcode.com/pslv2731/">
+    <img src="https://leetcard.jacoblin.cool/sgcodex?theme=wtf&font=Montserrat&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
 
 <br>
 

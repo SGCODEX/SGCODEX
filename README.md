@@ -45,8 +45,7 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=SGCODEX\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&rank_icon=github)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX)  -->
 
   <a href="https://leetcode.com/pslv2731/">
     <img src="https://leetcard.jacoblin.cool/sgcodex?theme=wtf&font=Montserrat" alt="LeetCode Stats" width="500"/>

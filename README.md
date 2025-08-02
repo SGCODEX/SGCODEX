@@ -40,11 +40,12 @@
 
 # 📊 Stats:
 
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/1e73403075b3c611541594d9245be3de4a0ebabd7674c2db5bcb576927e62ed1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5347434f4445582662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d6666662672616e6b5f69636f6e3d676974687562" alt="Github Stats" width="500"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX" alt="Github Stats" width="500"/>
+<img src="https://streak-stats.demolab.com?user=sgcodex" alt="Github Stats" width="500"/>
 <!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX" alt="Github Stats" width="500"/>
 ![](https://github-readme-stats.vercel.app/api?username=SGCODEX\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&rank_icon=github)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SGCODEX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SGCODEX)  -->

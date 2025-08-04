@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-    <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories!</h3>
+    <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories! Thank You!!</h3>
 </div>
 
 <!--

@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
-### Hiii there, I am Shivam Gupta 👋👋👋
+### Hiii there, I am Shivam Gupta 👋👋👋👋
 
 # 💫 About Me:
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RldjFzcHl4Y3Jpajdsc3phNmp6MWZnOTFxazE3azR2NnRrbXhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Coder GIF" width="250" height="250">

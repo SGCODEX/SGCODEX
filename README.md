@@ -1,4 +1,4 @@
-src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
+<img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> </p>
 
 ### Hii there, I am Shivam Gupta 👋👋
 
